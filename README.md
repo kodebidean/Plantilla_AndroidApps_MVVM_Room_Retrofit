@@ -212,8 +212,7 @@ Si deseas contribuir a este proyecto, por favor sigue las siguientes pautas:
 
 ---
 
-¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 🚀
+¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
 ---
 
-Este `README.md` proporciona una visión general clara y detallada del proyecto, incluyendo la estructura, configuración y dependencias. ¡Espero que sea útil! 😊
