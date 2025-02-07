@@ -1,0 +1,381 @@
+# Archivos generados por el IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*.swp
+
+# Archivos generados por Gradle
+.gradle/
+build/
+.gradle/
+*.log
+
+# Archivos generados por Android Studio
+*.keystore
+*.jks
+*.properties
+local.properties
+captures/
+
+# Archivos de configuración local
+*.env
+*.env.local
+
+# Archivos de dependencias
+**/libs/
+**/lib/
+
+# Archivos de caché
+.cache/
+**/.cxx/
+
+# Archivos generados por el sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de logs
+*.log
+logs/
+
+# Archivos de configuración de Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+*.hs_err_pid*
+
+# Archivos de configuración de versiones
+*.versionsBackup
+
+# Archivos de configuración de KSP (Kotlin Symbol Processing)
+**/build/generated/ksp/
+
+# Archivos de configuración de Room
+**/build/generated/source/kapt/
+
+# Archivos de configuración de pruebas
+**/build/reports/
+**/build/test-results/
+
+# Archivos de configuración de lint
+**/build/outputs/lint-results/
+
+# Archivos de configuración de APK
+**/build/outputs/apk/
+
+# Archivos de configuración de AAB
+**/build/outputs/bundle/
+
+# Archivos de configuración de ProGuard
+**/build/outputs/mapping/
+
+# Archivos de configuración de NDK
+**/build/intermediates/ndk/
+**/build/intermediates/cmake/
+
+# Archivos de configuración de recursos
+**/build/intermediates/res/
+**/build/intermediates/merged_res/
+
+# Archivos de configuración de Java/Kotlin
+**/build/intermediates/javac/
+**/build/intermediates/kotlin/
+
+# Archivos de configuración de compilación
+**/build/intermediates/incremental/
+
+# Archivos de configuración de firma
+**/build/intermediates/signing_config/
+
+# Archivos de configuración de recursos compilados
+**/build/intermediates/compiled_resources/
+
+# Archivos de configuración de recursos de Android
+**/build/intermediates/assets/
+
+# Archivos de configuración de recursos de Kotlin
+**/build/intermediates/kotlin_classes/
+
+# Archivos de configuración de recursos de Java
+**/build/intermediates/classes/
+
+# Archivos de configuración de recursos de ProGuard
+**/build/intermediates/proguard/
+
+# Archivos de configuración de recursos de Dex
+**/build/intermediates/dex/
+
+# Archivos de configuración de recursos de APK
+**/build/intermediates/apk/
+
+# Archivos de configuración de recursos de AAB
+**/build/intermediates/bundle/
+
+# Archivos de configuración de recursos de Lint
+**/build/intermediates/lint/
+
+# Archivos de configuración de recursos de Room
+**/build/intermediates/room/
+
+# Archivos de configuración de recursos de KSP
+**/build/intermediates/ksp/
+
+# Archivos de configuración de recursos de Kotlin Script
+**/build/intermediates/kotlin_script/
+
+# Archivos de configuración de recursos de Kotlin Metadata
+**/build/intermediates/kotlin_metadata/
+
+# Archivos de configuración de recursos de Kotlin Incremental
+**/build/intermediates/kotlin_incremental/
+
+# Archivos de configuración de recursos de Kotlin Compile
+**/build/intermediates/kotlin_compile/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing
+**/build/intermediates/kotlin_annotation_processing/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT)
+**/build/intermediates/kapt/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP)
+**/build/intermediates/ksp/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Incremental
+**/build/intermediates/kapt_incremental/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Incremental
+**/build/intermediates/ksp_incremental/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Stubs
+**/build/intermediates/kapt_stubs/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Stubs
+**/build/intermediates/ksp_stubs/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Classes
+**/build/intermediates/kapt_classes/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Classes
+**/build/intermediates/ksp_classes/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Sources
+**/build/intermediates/kapt_sources/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Sources
+**/build/intermediates/ksp_sources/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Resources
+**/build/intermediates/kapt_resources/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Resources
+**/build/intermediates/ksp_resources/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Generated
+**/build/intermediates/kapt_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Generated
+**/build/intermediates/ksp_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Incremental Generated
+**/build/intermediates/kapt_incremental_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Incremental Generated
+**/build/intermediates/ksp_incremental_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Stubs Generated
+**/build/intermediates/kapt_stubs_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Stubs Generated
+**/build/intermediates/ksp_stubs_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Classes Generated
+**/build/intermediates/kapt_classes_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Classes Generated
+**/build/intermediates/ksp_classes_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Sources Generated
+**/build/intermediates/kapt_sources_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Sources Generated
+**/build/intermediates/ksp_sources_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Resources Generated
+**/build/intermediates/kapt_resources_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Resources Generated
+**/build/intermediates/ksp_resources_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Generated Generated
+**/build/intermediates/kapt_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Generated Generated
+**/build/intermediates/ksp_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Incremental Generated Generated
+**/build/intermediates/kapt_incremental_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Incremental Generated Generated
+**/build/intermediates/ksp_incremental_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Stubs Generated Generated
+**/build/intermediates/kapt_stubs_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Stubs Generated Generated
+**/build/intermediates/ksp_stubs_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Classes Generated Generated
+**/build/intermediates/kapt_classes_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Classes Generated Generated
+**/build/intermediates/ksp_classes_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Sources Generated Generated
+**/build/intermediates/kapt_sources_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Sources Generated Generated
+**/build/intermediates/ksp_sources_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Resources Generated Generated
+**/build/intermediates/kapt_resources_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Resources Generated Generated
+**/build/intermediates/ksp_resources_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Generated Generated Generated
+**/build/intermediates/kapt_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Generated Generated Generated
+**/build/intermediates/ksp_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Incremental Generated Generated Generated
+**/build/intermediates/kapt_incremental_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Incremental Generated Generated Generated
+**/build/intermediates/ksp_incremental_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Stubs Generated Generated Generated
+**/build/intermediates/kapt_stubs_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Stubs Generated Generated Generated
+**/build/intermediates/ksp_stubs_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Classes Generated Generated Generated
+**/build/intermediates/kapt_classes_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Classes Generated Generated Generated
+**/build/intermediates/ksp_classes_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Sources Generated Generated Generated
+**/build/intermediates/kapt_sources_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Sources Generated Generated Generated
+**/build/intermediates/ksp_sources_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Resources Generated Generated Generated
+**/build/intermediates/kapt_resources_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Resources Generated Generated Generated
+**/build/intermediates/ksp_resources_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Generated Generated Generated Generated
+**/build/intermediates/kapt_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Generated Generated Generated Generated
+**/build/intermediates/ksp_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Incremental Generated Generated Generated Generated
+**/build/intermediates/kapt_incremental_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Incremental Generated Generated Generated Generated
+**/build/intermediates/ksp_incremental_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Stubs Generated Generated Generated Generated
+**/build/intermediates/kapt_stubs_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Stubs Generated Generated Generated Generated
+**/build/intermediates/ksp_stubs_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Classes Generated Generated Generated Generated
+**/build/intermediates/kapt_classes_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Classes Generated Generated Generated Generated
+**/build/intermediates/ksp_classes_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Sources Generated Generated Generated Generated
+**/build/intermediates/kapt_sources_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Sources Generated Generated Generated Generated
+**/build/intermediates/ksp_sources_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Resources Generated Generated Generated Generated
+**/build/intermediates/kapt_resources_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Resources Generated Generated Generated Generated
+**/build/intermediates/ksp_resources_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Generated Generated Generated Generated Generated
+**/build/intermediates/kapt_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Generated Generated Generated Generated Generated
+**/build/intermediates/ksp_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Incremental Generated Generated Generated Generated Generated
+**/build/intermediates/kapt_incremental_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Incremental Generated Generated Generated Generated Generated
+**/build/intermediates/ksp_incremental_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Stubs Generated Generated Generated Generated Generated
+**/build/intermediates/kapt_stubs_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Stubs Generated Generated Generated Generated Generated
+**/build/intermediates/ksp_stubs_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Classes Generated Generated Generated Generated Generated
+**/build/intermediates/kapt_classes_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Classes Generated Generated Generated Generated Generated
+**/build/intermediates/ksp_classes_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Sources Generated Generated Generated Generated Generated
+**/build/intermediates/kapt_sources_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Sources Generated Generated Generated Generated Generated
+**/build/intermediates/ksp_sources_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Resources Generated Generated Generated Generated Generated
+**/build/intermediates/kapt_resources_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Resources Generated Generated Generated Generated Generated
+**/build/intermediates/ksp_resources_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Generated Generated Generated Generated Generated Generated
+**/build/intermediates/kapt_generated_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Generated Generated Generated Generated Generated Generated
+**/build/intermediates/ksp_generated_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Incremental Generated Generated Generated Generated Generated Generated
+**/build/intermediates/kapt_incremental_generated_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Incremental Generated Generated Generated Generated Generated Generated
+**/build/intermediates/ksp_incremental_generated_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Stubs Generated Generated Generated Generated Generated Generated
+**/build/intermediates/kapt_stubs_generated_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Stubs Generated Generated Generated Generated Generated Generated
+**/build/intermediates/ksp_stubs_generated_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KAPT) Classes Generated Generated Generated Generated Generated Generated
+**/build/intermediates/kapt_classes_generated_generated_generated_generated_generated_generated/
+
+# Archivos de configuración de recursos de Kotlin Annotation Processing (KSP) Classes Generated Generated Generated Generated Generated Generated
+**/build/intermediates/ksp_classes_generated_generated_generated_generated_generated_generated/
+
