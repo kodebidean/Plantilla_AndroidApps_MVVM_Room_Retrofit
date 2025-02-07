@@ -3,6 +3,8 @@ plugins {
     alias(libs.plugins.kotlin.android)
     id("kotlin-parcelize") // Parcelize support
     id("com.google.devtools.ksp") // KSP support
+    id("com.google.dagger.hilt.android") // Hilt support
+    id("kotlin-kapt") // KAPT support
 }
 
 android {
@@ -59,6 +61,8 @@ dependencies {
     ksp(libs.androidx.room.compiler) // Alternativa moderna "Kotlin"
     annotationProcessor(libs.androidx.room.compiler) // Procesador "Java"
     implementation(libs.picasso) // Picasso for image loading
+    implementation(libs.hilt.android) // Hilt for dependency injection
+    kapt(libs.hilt.android.compiler) // Kapt for Hilt
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

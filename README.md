@@ -42,6 +42,8 @@ plugins {
     alias(libs.plugins.kotlin.android)
     id("kotlin-parcelize") // Soporte para Parcelize
     id("com.google.devtools.ksp") // Soporte para KSP
+    id("com.google.dagger.hilt.android") // Soporte para Hilt
+    id("kotlin-kapt") // Soporte para kapt (necesario para Hilt)
 }
 
 android {
@@ -97,7 +99,10 @@ dependencies {
     ksp(libs.androidx.room.compiler) // KSP para Room
     annotationProcessor(libs.androidx.room.compiler) // Procesador de anotaciones para Room
     implementation(libs.picasso) // Picasso para carga de imágenes
-
+    // Dependencias de Hilt
+    implementation(libs.hilt.android)
+    kapt(libs.hilt.android.compiler)
+    
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -113,6 +118,8 @@ plugins {
     alias(libs.plugins.android.application) apply false
     alias(libs.plugins.kotlin.android) apply false
     id("com.google.devtools.ksp") version "2.0.21-1.0.27" apply false
+    id("com.google.dagger.hilt.android") version "2.51" apply false // Plugin de Hilt
+
 }
 ```
 
@@ -137,6 +144,7 @@ constraintlayout = "2.2.0"
 picasso = "2.71828"
 retrofit = "2.11.0"
 roomRuntime = "2.6.1"
+hilt = "2.51"
 ```
 
 ---
@@ -180,6 +188,7 @@ roomRuntime = "2.6.1"
 - **LiveData**: Para observar cambios en los datos y actualizar la UI automáticamente.
 - **Picasso**: Para cargar imágenes desde URLs.
 - **ViewBinding**: Para manejar la UI de manera más eficiente.
+- **Hilt**: Para la inyección de dependencias.
 
 ---
 
