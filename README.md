@@ -1,6 +1,7 @@
 # **Plantilla para Proyectos MVVM con room y retrofit**
 
-Este repositorio es una plantilla para aplicaciones Android desarrollada en **Kotlin** utilizando la arquitectura **MVVM (Model-View-ViewModel)**. A continuación, se describe la estructura del proyecto, la configuración y las dependencias utilizadas.
+**Este repositorio contiene una plantilla para proyectos Android desarrollados en Kotlin utilizando la arquitectura MVVM (Model-View-ViewModel). El objetivo de esta plantilla es permitirte hacer un git clone y disponer de todo lo necesario para comenzar un proyecto Android completamente configurado, estructurado y listo para usar. Solo necesitarás personalizarlo según tus necesidades y comenzar a desarrollar**. 
+A continuación, se describe la estructura del proyecto, la configuración y las dependencias utilizadas.
 
 ---
 
